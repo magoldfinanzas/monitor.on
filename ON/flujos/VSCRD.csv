@@ -1,0 +1,25 @@
+# METADATOS
+emisor,Vista Oil y Gas Argentina S.A.
+ticker,VSCRD
+moneda,USD
+ley,AR
+cupon_anual,8.0
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2023-10-10
+fecha_vencimiento,2028-10-10
+valor_nominal,100
+tipo_amortizacion,Bullet (pago único al vencimiento)
+meses_pago,4, 10
+# FLUJOS
+fecha,interes,amortizacion
+2024-04-10,4.00,0.00
+2024-10-10,4.00,0.00
+2025-04-10,4.00,0.00
+2025-10-10,4.00,0.00
+2026-04-10,4.00,0.00
+2026-10-09,4.00,0.00
+2027-04-12,4.00,0.00
+2027-10-08,4.00,0.00
+2028-04-10,4.00,0.00
+2028-10-10,4.00,100.00

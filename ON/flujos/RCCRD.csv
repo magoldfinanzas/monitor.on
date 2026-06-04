@@ -1,0 +1,19 @@
+# METADATOS
+emisor,Arcor S.A.I.C.
+ticker,RCCRD
+moneda,USD
+ley,AR
+cupon_anual,6.75
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2025-05-09
+fecha_vencimiento,2027-05-09
+valor_nominal,100
+tipo_amortizacion,Bullet (pago único al vencimiento)
+meses_pago,5, 11
+# FLUJOS
+fecha,interes,amortizacion
+2025-11-10,3.375,0.00
+2026-05-11,3.375,0.00
+2026-11-09,3.375,0.00
+2027-05-09,3.375,100.00

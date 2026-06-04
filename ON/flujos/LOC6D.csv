@@ -1,0 +1,21 @@
+# METADATOS
+emisor,Loma Negra Compañía Industrial Argentina S.A.
+ticker,LOC6D
+moneda,USD
+ley,AR
+cupon_anual,6.5
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2026-01-23
+fecha_vencimiento,2029-01-23
+valor_nominal,100
+tipo_amortizacion,Bullet (pago único al vencimiento)
+meses_pago,1, 7
+# FLUJOS
+fecha,interes,amortizacion
+2026-07-23,3.25,0.00
+2027-01-23,3.25,0.00
+2027-07-23,3.25,0.00
+2028-01-23,3.25,0.00
+2028-07-23,3.25,0.00
+2029-01-23,3.25,100.00

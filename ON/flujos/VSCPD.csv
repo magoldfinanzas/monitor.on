@@ -1,0 +1,25 @@
+# METADATOS
+emisor,Vista Energy Argentina S.A.U.
+ticker,VSCPD
+moneda,USD
+ley,AR
+cupon_anual,8.0
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2024-05-03
+fecha_vencimiento,2029-05-03
+valor_nominal,100
+tipo_amortizacion,Amortización gradual los últimos 2 años (25% cada semestre)
+meses_pago,5, 11
+# FLUJOS
+fecha,interes,amortizacion
+2024-11-04,5.348,0.00
+2025-05-05,3.989,0.00
+2025-11-03,3.989,0.00
+2026-05-04,3.989,0.00
+2026-11-03,4.011,0.00
+2027-05-03,3.967,0.00
+2027-11-03,4.033,25.00
+2028-05-03,2.992,25.00
+2028-11-03,2.016,25.00
+2029-05-03,0.992,25.00

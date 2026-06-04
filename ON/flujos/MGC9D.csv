@@ -1,0 +1,24 @@
+# METADATOS
+emisor,Pampa Energia S.A.
+ticker,MGC9D
+moneda,USD
+ley,NY
+cupon_anual,9.5
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2022-12-12
+fecha_vencimiento,2026-12-09
+valor_nominal,100
+tipo_amortizacion,Amortización gradual (33% + 33% + 34%)
+meses_pago,6, 12
+# FLUJOS
+fecha,interes,amortizacion
+2022-12-12,32.722,0.00
+2023-06-08,46.444,0.00
+2023-12-11,48.292,0.00
+2024-06-10,47.236,0.00
+2024-12-09,47.236,33.00
+2025-06-09,31.825,0.00
+2025-12-09,31.825,33.00
+2026-06-08,16.060,0.00
+2026-12-09,16.240,34.00

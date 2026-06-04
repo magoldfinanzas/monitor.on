@@ -1,0 +1,35 @@
+# METADATOS
+emisor,IRSA Inversiones y Representaciones S.A.
+ticker,IRCPD
+moneda,USD
+ley,NY
+cupon_anual,8.0
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2025-03-25
+fecha_vencimiento,2035-03-31
+valor_nominal,100
+tipo_amortizacion,Bullet (pago único al vencimiento)
+meses_pago,3, 9
+# FLUJOS
+fecha,interes,amortizacion
+2025-09-30,4.00,0.00
+2026-03-31,4.00,0.00
+2026-09-30,4.00,0.00
+2027-03-31,4.00,0.00
+2027-09-30,4.00,0.00
+2028-03-31,4.00,0.00
+2028-09-30,4.00,0.00
+2029-03-31,4.00,0.00
+2029-09-30,4.00,0.00
+2030-03-31,4.00,0.00
+2030-09-30,4.00,0.00
+2031-03-31,4.00,0.00
+2031-09-30,4.00,0.00
+2032-03-31,4.00,0.00
+2032-09-30,4.00,0.00
+2033-03-31,4.00,0.00
+2033-09-30,4.00,0.00
+2034-03-31,4.00,0.00
+2034-09-30,4.00,0.00
+2035-03-31,4.00,100.00

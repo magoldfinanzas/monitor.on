@@ -1,0 +1,26 @@
+# METADATOS
+emisor,Mastellone Hnos S.A.
+ticker,MTCGD
+moneda,USD
+ley,NY
+cupon_anual,10.95
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2021-06-30
+fecha_vencimiento,2026-06-30
+valor_nominal,100
+tipo_amortizacion,Bullet (pago único al vencimiento)
+meses_pago,3, 6, 12
+# FLUJOS
+fecha,interes,amortizacion
+2021-12-30,5.475,0.00
+2022-06-30,5.475,0.00
+2022-12-30,5.475,0.00
+2023-06-30,5.475,0.00
+2023-12-29,5.475,0.00
+2024-06-28,5.475,0.00
+2024-12-30,5.475,0.00
+2025-06-30,5.475,0.00
+2025-12-30,5.475,0.00
+2026-03-30,2.738,0.00
+2026-06-30,2.738,100.00

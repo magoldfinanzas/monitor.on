@@ -1,0 +1,21 @@
+# METADATOS
+emisor,IRSA Inversiones y Representaciones S.A.
+ticker,IRCJD
+moneda,USD
+ley,AR
+cupon_anual,7.0
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2024-02-29
+fecha_vencimiento,2027-02-27
+valor_nominal,100
+tipo_amortizacion,Bullet (pago único al vencimiento)
+meses_pago,2, 8
+# FLUJOS
+fecha,interes,amortizacion
+2024-08-30,3.50,0.00
+2025-02-28,3.50,0.00
+2025-08-29,3.50,0.00
+2026-02-27,3.50,0.00
+2026-08-31,3.50,0.00
+2027-02-27,3.50,100.00

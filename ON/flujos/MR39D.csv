@@ -1,0 +1,29 @@
+# METADATOS
+emisor,Generación Mediterránea S.A.
+ticker,MR39D
+moneda,USD
+ley,NY
+cupon_anual,11.0
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2024-11-04
+fecha_vencimiento,2031-11-03
+valor_nominal,100
+tipo_amortizacion,Amortización gradual (1.5%, 1.5%, 2.5%, 2.5%, 7.5%, 7.5%, 11%, 11%, 22%)
+meses_pago,5, 11
+# FLUJOS
+fecha,interes,amortizacion
+2025-05-05,5.653,0.00
+2025-11-03,5.439,0.00
+2026-05-04,5.531,1.50
+2026-11-03,5.357,1.50
+2027-05-03,5.365,2.50
+2027-11-02,5.140,2.50
+2028-05-02,5.088,7.50
+2028-11-01,4.622,7.50
+2029-05-02,4.259,11.00
+2029-11-01,3.610,11.00
+2030-05-02,3.042,11.00
+2030-11-01,2.407,11.00
+2031-05-01,1.815,11.00
+2031-11-03,1.223,22.00

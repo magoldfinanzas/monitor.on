@@ -1,0 +1,25 @@
+# METADATOS
+emisor,IRSA Inversiones y Representaciones S.A.
+ticker,IRCOD
+moneda,USD
+ley,AR
+cupon_anual,7.25
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2024-10-11
+fecha_vencimiento,2029-10-10
+valor_nominal,100
+tipo_amortizacion,Bullet (pago único al vencimiento)
+meses_pago,4, 10
+# FLUJOS
+fecha,interes,amortizacion
+2025-04-11,3.625,0.00
+2025-10-10,3.625,0.00
+2026-04-10,3.625,0.00
+2026-10-09,3.625,0.00
+2027-04-12,3.625,0.00
+2027-10-08,3.625,0.00
+2028-04-10,3.625,0.00
+2028-10-06,3.625,0.00
+2029-04-10,3.625,0.00
+2029-10-10,3.625,100.00

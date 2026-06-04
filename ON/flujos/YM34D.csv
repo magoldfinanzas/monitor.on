@@ -1,0 +1,31 @@
+# METADATOS
+emisor,YPF S.A.
+ticker,YM34D
+moneda,USD
+ley,NY
+cupon_anual,8.25
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2025-01-17
+fecha_vencimiento,2034-01-17
+valor_nominal,100
+tipo_amortizacion,Amortización gradual los últimos 3 años (30%, 30%, 40%)
+meses_pago,1, 7
+# FLUJOS
+fecha,interes,amortizacion
+2026-07-17,4.125,0.00
+2027-01-17,4.125,0.00
+2027-07-17,4.125,0.00
+2028-01-17,4.125,0.00
+2028-07-17,4.125,0.00
+2029-01-17,4.125,0.00
+2029-07-17,4.125,0.00
+2030-01-17,4.125,0.00
+2030-07-17,4.125,0.00
+2031-01-17,4.125,0.00
+2031-07-17,4.125,0.00
+2032-01-17,4.125,30.00
+2032-07-17,2.888,0.00
+2033-01-17,2.888,30.00
+2033-07-17,1.650,0.00
+2034-01-17,1.650,40.00

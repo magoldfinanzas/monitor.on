@@ -1,0 +1,27 @@
+# METADATOS
+emisor,Pan American Energy S.L.
+ticker,PNDCD
+moneda,USD
+ley,NY
+cupon_anual,9.125
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2021-04-30
+fecha_vencimiento,2027-04-30
+valor_nominal,100
+tipo_amortizacion,Amortización gradual los últimos 2 años (20% + 20% + 20%)
+meses_pago,4, 10
+# FLUJOS
+fecha,interes,amortizacion
+2021-10-30,2.281,0.00
+2022-04-30,2.281,0.00
+2022-10-31,2.281,0.00
+2023-04-30,2.281,0.00
+2023-10-31,2.281,0.00
+2024-04-30,2.281,0.00
+2024-10-31,2.281,0.00
+2025-04-30,2.281,0.00
+2025-10-31,2.281,20.00
+2026-04-30,1.830,0.00
+2026-10-31,1.830,20.00
+2027-04-30,0.910,20.00

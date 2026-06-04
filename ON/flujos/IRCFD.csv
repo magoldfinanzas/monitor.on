@@ -1,0 +1,20 @@
+# METADATOS
+emisor,IRSA Inversiones y Representaciones S.A.
+ticker,IRCFD
+moneda,USD
+ley,NY
+cupon_anual,8.75
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2022-06-22
+fecha_vencimiento,2028-06-22
+valor_nominal,100
+tipo_amortizacion,Amortización gradual los últimos 3 años (17.5%, 17.5%, 30%)
+meses_pago,6, 12
+# FLUJOS
+fecha,interes,amortizacion
+2026-06-22,2.844,17.50
+2026-12-22,2.078,0.00
+2027-06-22,2.078,17.50
+2027-12-22,1.313,0.00
+2028-06-22,1.313,30.00
