@@ -1,0 +1,31 @@
+# METADATOS
+emisor,YPF Energía Eléctrica S.A.
+ticker,YFCJO
+moneda,USD
+ley,NY
+cupon_anual,7.875
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2024-10-16
+fecha_vencimiento,2032-10-16
+valor_nominal,100
+tipo_amortizacion,Gradual (33%+33%+34% los últimos 3 años)
+meses_pago,4, 10
+# FLUJOS
+fecha,interes,amortizacion
+2025-04-16,3.9375,0.00
+2025-10-16,3.9375,0.00
+2026-04-16,3.9375,0.00
+2026-10-16,3.9375,0.00
+2027-04-16,3.9375,0.00
+2027-10-16,3.9375,0.00
+2028-04-16,3.9375,0.00
+2028-10-16,3.9375,0.00
+2029-04-16,3.9375,0.00
+2029-10-16,3.9375,0.00
+2030-04-16,3.9375,0.00
+2030-10-16,3.9375,33.00
+2031-04-16,2.638125,0.00
+2031-10-16,2.638125,33.00
+2032-04-16,1.33875,0.00
+2032-10-16,1.33875,34.00

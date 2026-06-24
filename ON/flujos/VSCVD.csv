@@ -1,0 +1,31 @@
+# METADATOS
+emisor,Vista Energy Argentina S.A.U.
+ticker,VSCVO
+moneda,USD
+ley,NY
+cupon_anual,8.5
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2025-06-10
+fecha_vencimiento,2033-06-10
+valor_nominal,100
+tipo_amortizacion,Gradual (33%+33%+34% los últimos 3 años)
+meses_pago,6, 12
+# FLUJOS
+fecha,interes,amortizacion
+2025-12-10,4.25,0.00
+2026-06-10,4.25,0.00
+2026-12-10,4.25,0.00
+2027-06-10,4.25,0.00
+2027-12-10,4.25,0.00
+2028-06-10,4.25,0.00
+2028-12-10,4.25,0.00
+2029-06-10,4.25,0.00
+2029-12-10,4.25,0.00
+2030-06-10,4.25,0.00
+2030-12-10,4.25,0.00
+2031-06-10,4.25,33.00
+2031-12-10,2.8475,0.00
+2032-06-10,2.8475,33.00
+2032-12-10,1.445,0.00
+2033-06-10,1.445,34.00

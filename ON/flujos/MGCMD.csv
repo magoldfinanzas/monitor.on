@@ -1,0 +1,29 @@
+# METADATOS
+emisor,Pampa Energía S.A.
+ticker,MGCMO
+moneda,USD
+ley,NY
+cupon_anual,7.95
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2024-09-10
+fecha_vencimiento,2031-09-10
+valor_nominal,100
+tipo_amortizacion,Bullet (pago único al vencimiento)
+meses_pago,3, 9
+# FLUJOS
+fecha,interes,amortizacion
+2025-03-10,3.975,0.00
+2025-09-10,3.975,0.00
+2026-03-10,3.975,0.00
+2026-09-10,3.975,0.00
+2027-03-10,3.975,0.00
+2027-09-10,3.975,0.00
+2028-03-10,3.975,0.00
+2028-09-10,3.975,0.00
+2029-03-10,3.975,0.00
+2029-09-10,3.975,0.00
+2030-03-10,3.975,0.00
+2030-09-10,3.975,0.00
+2031-03-10,3.975,0.00
+2031-09-10,3.975,100.00
