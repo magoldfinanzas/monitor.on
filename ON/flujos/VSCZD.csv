@@ -1,0 +1,21 @@
+# METADATOS
+emisor,Vista Energy Argentina S.A.U.
+ticker,VSCZD
+moneda,USD
+ley,AR
+cupon_anual,5.0
+tipo_tasa,fija
+frecuencia,semestral
+fecha_emision,2026-07-16
+fecha_vencimiento,2029-07-16
+valor_nominal,100
+tipo_amortizacion,Bullet (pago único al vencimiento)
+meses_pago,1, 7
+# FLUJOS
+fecha,interes,amortizacion
+2027-01-16,2.5205,0.00
+2027-07-16,2.4795,0.00
+2028-01-16,2.5205,0.00
+2028-07-16,2.4932,0.00
+2029-01-16,2.5205,0.00
+2029-07-16,2.4795,100.00
